@@ -3,7 +3,7 @@
 A modern and responsive **Pricing Cards UI** built using **HTML, CSS, and Font Awesome**.  
 Users can compare different pricing plans and select the plan that best suits their needs.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Pricing-Cards/)  
 
 ---
 
